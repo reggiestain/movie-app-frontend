@@ -12,7 +12,7 @@ Run the following GIT command to clone the project repository:
 
 $ cd /path/to/apache/www/directory
 
-$ git clone https://github.com/reggiestain/movie-app-backend
+$ git clone https://github.com/reggiestain/movie-app-frontend
 
 ```
 
