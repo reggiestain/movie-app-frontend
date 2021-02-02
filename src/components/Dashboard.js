@@ -26,7 +26,7 @@ class Dashboard extends Component {
 
   ratings = rating => {
     return [...Array(parseInt(rating))].map((elementInArray, index) => (
-      <span key={index} class="fa fa-star" style={{ color: 'yellow' }}></span>
+      <span key={index} class="fa fa-star" style={{ color: '#E3C010' }}></span>
     ))
   }
 
